@@ -1,7 +1,7 @@
 # Adventureworks-Sales-Dashboard
 
 ## Project Overview
-This project is a Power BI report that analyzes sales data from the AdventureWorks database. It's  a sample database provided by Microsoft for learning and testing purposes. Specifically, We utilized the Sales module, which contains information about sales orders, products, and sales territories. The goal of this project is getting insights from various aspects of the sales data, including product sales performance, and regional sales trends.
+This project is a Power BI dashboard that analyzes sales data from the AdventureWorks database. We utilized the Sales module, which contains information about sales orders, products, and sales territories. The goal of this project is getting insights from various aspects of the sales data.
 
 ## DataSet
 The dataset can be found through [AdventureWorks Database](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
